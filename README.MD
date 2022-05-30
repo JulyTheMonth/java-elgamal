@@ -1,4 +1,4 @@
-# Elgamal Java
+# Elgamal Java (Quick&Dirty)
 
 ## Parameters
 1. Mode: 
